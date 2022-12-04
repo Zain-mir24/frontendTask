@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid
+        /* display: flex; */
+}
+
+.buttonStyle {
+    height: 7vh;
+    background-color: rgb(51, 163, 255);
+    width: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+}

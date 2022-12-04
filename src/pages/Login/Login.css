@@ -1,0 +1,23 @@
+.mainLogin {
+    background-color: #fceaea;
+    height: 100vh;
+
+}
+
+.LoginDiv {
+    background-color: white;
+    height: 55vh;
+    top: 20%;
+    left: 30%;
+    width: 50%;
+    position: absolute;
+    border-radius: 25px;
+
+}
+
+.innerDiv {
+    padding-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+}
